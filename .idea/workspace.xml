@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22e13d40-8ff6-4cb4-95a9-218961a410db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso-kotlin-cod3r.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Comentarios.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Const.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/ConstJava.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/CuidadoInferencia2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/CuidadoInteferencia1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/FuncaoComRetorno.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/FuncaoSemRetorno.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/PrimeiroPrograma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/TiposBasicos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Var.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EU7qVdqPKqyPokAi83y2vZBI82" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/100749/Desktop/GRUPO SBF/chitauri",
+    "settings.editor.selected.configurable": "preferences.general"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.FuncaoSemRetornoKt">
+    <configuration name="ConstJavaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.ConstJavaKt" />
+      <module name="curso-kotlin-cod3r" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.ConstKt" />
+      <module name="curso-kotlin-cod3r" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CuidadoInferencia2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.CuidadoInferencia2Kt" />
+      <module name="curso-kotlin-cod3r" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuncaoSemRetornoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.FuncaoSemRetornoKt" />
+      <module name="curso-kotlin-cod3r" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiposBasicosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.TiposBasicosKt" />
+      <module name="curso-kotlin-cod3r" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.FuncaoSemRetornoKt" />
+        <item itemvalue="Kotlin.TiposBasicosKt" />
+        <item itemvalue="Kotlin.ConstJavaKt" />
+        <item itemvalue="Kotlin.ConstKt" />
+        <item itemvalue="Kotlin.CuidadoInferencia2Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22e13d40-8ff6-4cb4-95a9-218961a410db" name="Changes" comment="" />
+      <created>1662638506479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662638506479</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
