@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22e13d40-8ff6-4cb4-95a9-218961a410db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-kotlin-cod3r.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Comentarios.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Const.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/ConstJava.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/CuidadoInferencia2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/CuidadoInteferencia1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/FuncaoComRetorno.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/FuncaoSemRetorno.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/PrimeiroPrograma.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/TiposBasicos.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Var.kt" afterDir="false" />
+    <list default="true" id="22e13d40-8ff6-4cb4-95a9-218961a410db" name="Changes" comment="class and constructor">
+      <change afterPath="$PROJECT_DIR$/src/classes/Cliente2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/GettersCalculados.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/GettersSetters.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/MembrosClasseVsInstancia.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +17,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/fundamentos/TesteImport.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/fundamentos/pacoteA/Mistura.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/fundamentos/pacoteB/Matematica.kt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,42 +43,41 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/100749/Desktop/GRUPO SBF/chitauri",
-    "settings.editor.selected.configurable": "preferences.general"
+    "last_opened_file_path": "C:/Users/100749/GRUPO SBF/Kotlin/curso-kotlin-cod3r/curso-kotlin-cod3r",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.FuncaoSemRetornoKt">
-    <configuration name="ConstJavaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.ConstJavaKt" />
+  <component name="RunManager" selected="Kotlin.GettersCalculadosKt">
+    <configuration name="BlocoInitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.BlocoInitKt" />
       <module name="curso-kotlin-cod3r" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.ConstKt" />
+    <configuration name="ClassVsDataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.ClassVsDataClassKt" />
       <module name="curso-kotlin-cod3r" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CuidadoInferencia2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.CuidadoInferencia2Kt" />
+    <configuration name="Construtor1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.Construtor1Kt" />
       <module name="curso-kotlin-cod3r" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncaoSemRetornoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.FuncaoSemRetornoKt" />
+    <configuration name="Construtor2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.Construtor2Kt" />
       <module name="curso-kotlin-cod3r" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TiposBasicosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.TiposBasicosKt" />
+    <configuration name="GettersCalculadosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.GettersCalculadosKt" />
       <module name="curso-kotlin-cod3r" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.FuncaoSemRetornoKt" />
-        <item itemvalue="Kotlin.TiposBasicosKt" />
-        <item itemvalue="Kotlin.ConstJavaKt" />
-        <item itemvalue="Kotlin.ConstKt" />
-        <item itemvalue="Kotlin.CuidadoInferencia2Kt" />
+        <item itemvalue="Kotlin.GettersCalculadosKt" />
+        <item itemvalue="Kotlin.BlocoInitKt" />
+        <item itemvalue="Kotlin.Construtor2Kt" />
+        <item itemvalue="Kotlin.Construtor1Kt" />
+        <item itemvalue="Kotlin.ClassVsDataClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -112,6 +102,84 @@
       <option name="presentableId" value="Default" />
       <updated>1662638506479</updated>
     </task>
+    <task id="LOCAL-00001" summary="NullPointerException">
+      <created>1662740921070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662740921071</updated>
+    </task>
+    <task id="LOCAL-00002" summary="imports use cases">
+      <created>1662742785724</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662742785725</updated>
+    </task>
+    <task id="LOCAL-00003" summary="repetition structure">
+      <created>1662986497182</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662986497182</updated>
+    </task>
+    <task id="LOCAL-00004" summary="operators">
+      <created>1663070969486</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663070969486</updated>
+    </task>
+    <task id="LOCAL-00005" summary="smart and operator cast">
+      <created>1663072121074</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663072121075</updated>
+    </task>
+    <task id="LOCAL-00006" summary="functions init">
+      <created>1663074424144</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663074424144</updated>
+    </task>
+    <task id="LOCAL-00007" summary="infix function">
+      <created>1666006641735</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666006641735</updated>
+    </task>
+    <task id="LOCAL-00008" summary="unit function">
+      <created>1666007338803</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666007338803</updated>
+    </task>
+    <task id="LOCAL-00009" summary="function like param">
+      <created>1666009689563</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666009689563</updated>
+    </task>
+    <task id="LOCAL-00010" summary="inline function">
+      <created>1666010842004</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666010842004</updated>
+    </task>
+    <task id="LOCAL-00011" summary="class and constructor">
+      <created>1666186332215</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666186332215</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,5 +192,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NullPointerException" />
+    <MESSAGE value="imports use cases" />
+    <MESSAGE value="repetition structure" />
+    <MESSAGE value="operators" />
+    <MESSAGE value="smart and operator cast" />
+    <MESSAGE value="functions init" />
+    <MESSAGE value="infix function" />
+    <MESSAGE value="unit function" />
+    <MESSAGE value="function like param" />
+    <MESSAGE value="inline function" />
+    <MESSAGE value="class and constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="class and constructor" />
   </component>
 </project>
