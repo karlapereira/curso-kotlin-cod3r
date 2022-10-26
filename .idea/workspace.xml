@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22e13d40-8ff6-4cb4-95a9-218961a410db" name="Changes" comment="class and constructor">
-      <change afterPath="$PROJECT_DIR$/src/classes/Cliente2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/GettersCalculados.kt" afterDir="false" />
+    <list default="true" id="22e13d40-8ff6-4cb4-95a9-218961a410db" name="Changes" comment="enum class">
       <change afterPath="$PROJECT_DIR$/src/classes/GettersSetters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/MembrosClasseVsInstancia.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Filter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Lambda1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Lambda2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/SortedBy.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,37 +48,37 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.GettersCalculadosKt">
-    <configuration name="BlocoInitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.BlocoInitKt" />
+  <component name="RunManager" selected="Kotlin.FilterKt">
+    <configuration name="Enum2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.Enum2Kt" />
       <module name="curso-kotlin-cod3r" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassVsDataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.ClassVsDataClassKt" />
+    <configuration name="FilterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.FilterKt" />
       <module name="curso-kotlin-cod3r" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Construtor1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.Construtor1Kt" />
+    <configuration name="Lambda1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Lambda1Kt" />
       <module name="curso-kotlin-cod3r" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Construtor2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.Construtor2Kt" />
+    <configuration name="Lambda2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Lambda2Kt" />
       <module name="curso-kotlin-cod3r" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GettersCalculadosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.GettersCalculadosKt" />
+    <configuration name="PassagemReferenciaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.PassagemReferenciaKt" />
       <module name="curso-kotlin-cod3r" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.GettersCalculadosKt" />
-        <item itemvalue="Kotlin.BlocoInitKt" />
-        <item itemvalue="Kotlin.Construtor2Kt" />
-        <item itemvalue="Kotlin.Construtor1Kt" />
-        <item itemvalue="Kotlin.ClassVsDataClassKt" />
+        <item itemvalue="Kotlin.FilterKt" />
+        <item itemvalue="Kotlin.Lambda2Kt" />
+        <item itemvalue="Kotlin.Lambda1Kt" />
+        <item itemvalue="Kotlin.Enum2Kt" />
+        <item itemvalue="Kotlin.PassagemReferenciaKt" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +180,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666186332215</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="class members and instance">
+      <created>1666614854089</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666614854089</updated>
+    </task>
+    <task id="LOCAL-00013" summary="reference">
+      <created>1666615292513</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666615292513</updated>
+    </task>
+    <task id="LOCAL-00014" summary="enum class">
+      <created>1666615732211</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666615732211</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +227,9 @@
     <MESSAGE value="function like param" />
     <MESSAGE value="inline function" />
     <MESSAGE value="class and constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="class and constructor" />
+    <MESSAGE value="class members and instance" />
+    <MESSAGE value="reference" />
+    <MESSAGE value="enum class" />
+    <option name="LAST_COMMIT_MESSAGE" value="enum class" />
   </component>
 </project>
